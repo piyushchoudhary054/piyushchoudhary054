@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱I’m currently interning at ReGex Software as a Data Science Intern.
+- 🌱I’m currently pursuing trainee in In Time Tec.
 
 - 📫 How to reach me **piyushchoudhary054@gmail.com**
 - https://www.linkedin.com/in/piyush-choudhary-047834232/
